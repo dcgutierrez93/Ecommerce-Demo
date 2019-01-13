@@ -1,0 +1,23 @@
+{
+  "name": "ecommerce-demo",
+  "version": "1.0.0",
+  "description": "A PWA Ecommerce Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcgutierrez93/Ecommerce-Demo.git"
+  },
+  "author": "David Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcgutierrez93/Ecommerce-Demo/issues"
+  },
+  "homepage": "https://github.com/dcgutierrez93/Ecommerce-Demo#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
